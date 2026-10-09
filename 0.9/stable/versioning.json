@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-07-24T22:29:30.135Z",
+  "buildTime": "2026-10-09T19:28:02.845Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.91",
     "types": "1.0.0-alpha.91"
@@ -12,7 +12,7 @@
     {
       "name": "Batcave",
       "description": "Extension that pulls content from batcave.biz.",
-      "version": "1.7",
+      "version": "1.8",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "SAFE",
