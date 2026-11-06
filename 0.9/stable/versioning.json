@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-10-09T19:34:01.430Z",
+  "buildTime": "2026-11-06T02:38:24.575Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.91",
     "types": "1.0.0-alpha.91"
@@ -99,8 +99,8 @@
     },
     {
       "name": "Hitomi",
-      "description": "Extension that pulls content from hitomi.la",
-      "version": "1.6.7",
+      "description": "Development stopped on this repo. Check the settings page for a direct link to the new repo hosting updated NHentai and Hitomi sources.",
+      "version": "1.6.2",
       "icon": "icon.png",
       "language": "multi",
       "contentRating": "ADULT",
@@ -115,7 +115,7 @@
       "developers": [
         {
           "name": "pisshammy",
-          "website": "$1/goon pls am poor\nzelle: pisshammy@gmail.com\ncashapp: $0hammy0"
+          "website": "https://pisshammy.github.io/HammyExtensions/"
         }
       ],
       "id": "Hitomi"
@@ -270,8 +270,8 @@
     },
     {
       "name": "NHentai",
-      "description": "Extension that pulls content from nhentai.net",
-      "version": "2.9.6",
+      "description": "Development stopped on this repo. Check the settings page for a direct link to the new repo hosting updated NHentai and Hitomi sources.",
+      "version": "2.9.2",
       "icon": "icon.png",
       "language": "multi",
       "contentRating": "ADULT",
@@ -286,7 +286,7 @@
       "developers": [
         {
           "name": "pisshammy",
-          "website": "$1/climax: consider donating :3 \ncashapp: $0hammy0"
+          "website": "https://pisshammy.github.io/HammyExtensions/"
         }
       ],
       "id": "NHentai"
